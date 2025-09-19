@@ -1,3 +1,9 @@
+import "./App.css";
+
 export default function App() {
-  return <h1>Coming soon...</h1>;
+  return (
+    <div className="container">
+      <h1>coming soon...</h1>
+    </div>
+  );
 }
